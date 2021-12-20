@@ -1,5 +1,11 @@
 ## Quick Screen Recorder
+
+![quick-sr screenshot](https://raw.githubusercontent.com/leovoon/quick-sr/master/quick-sr-ss.png)
+
 Web extension for recording videos.
+
+
+![quick-sr screenshot2](https://github.com/leovoon/quick-sr/blob/master/quick-sr-ss2.png)
 
 
 ### Build
